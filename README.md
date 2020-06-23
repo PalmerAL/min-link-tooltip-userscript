@@ -3,5 +3,5 @@ Shows a tooltip with the destination of hovered links in [Min](https://minbrowse
 
 To install: 
 
-* Follow [these instructions](https://github.com/minbrowser/min/wiki/userscripts) to create a userscript.
-* Copy the contents of this repository's `global.js` file into your own `global.js`.
+* Enable userscripts in Min and create a `userscripts` folder following [these instructions](https://github.com/minbrowser/min/wiki/userscripts), and save `link-tooltip.js` inside it.
+* Restart Min.
