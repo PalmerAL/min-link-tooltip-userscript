@@ -28,6 +28,7 @@ function showTooltipFor (link) {
     text-overflow: ellipsis;
     overflow: hidden;
     color: black;
+    z-index: 2147483647;
     `)
 
   tooltip.textContent = link
